@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SouvickMazumdar
 - 👀 I’m interested in Machine Learnig and Artificial Intelligence...
 - 🌱 I’m currently learning Python, various librariries for ML, JAVA, 
-- 💞️ I’m looking to collaborate for Python and JAVA projects.
+- 💞️ I’m looking to collaborate for Python and C++ projects.
 - 📫 How to reach me souvickmazumdar123@gmail.com
 - ABOUT ME:
 Love to code, 
