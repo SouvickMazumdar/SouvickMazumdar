@@ -46,7 +46,7 @@
 <p align="left">
   <font size="+100">
     <a href="https://github.com/SouvickMazumdar/github-readme-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raj Kharwar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-kharwar-26&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SouvickMazumdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SouvickMazumdar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
       </font>
     </a>
 </p>
