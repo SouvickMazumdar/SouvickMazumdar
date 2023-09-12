@@ -15,7 +15,7 @@
 ## 🚀 *Trophies*
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SouvickMazumdar" alt="raj-kharwar-26&theme=react&hide_border=true&bg_color=0D1117" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github](Projects)
+- 👨‍💻 All of my projects are available at [github](SouvickMazumdar/Projects)
 
 - 💬 Ask me about anything about **Mahine Learning and Problem solving**
 
